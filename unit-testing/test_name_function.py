@@ -14,5 +14,5 @@ class NamesTestCase(unittest.TestCase):
         self.assertEqual(formatted_name, 'Wolfgang Amadeus Mozart')
 
 #page 211
-if __name__ == '_main_':
+if __name__ == "__main__":
     unittest.main()
